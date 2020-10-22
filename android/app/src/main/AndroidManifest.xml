@@ -14,7 +14,7 @@
         android:label="smartpark"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDJnDsdhoAu2baWPXaU2cvyKUxqt3JBj48"/>
+               android:value="[YOUR_API_KEY]"/>
                
         <activity
             android:name=".MainActivity"
