@@ -1,16 +1,10 @@
 # smartpark
 
-A new Flutter project.
+This application helps user search for a parking spot within 5 km of the current location and also let's user book the spot in advance.
 
-## Getting Started
+The app also has feature of seeing upcoming booked spot and prevous history of bookings.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses MapBox API for parking place information
+                  Razorpay API for payment processing.
+                  
+                  
